@@ -5,7 +5,7 @@
 - https://github.com/msy2008/yiimp_install_scrypt
 
 #The stratum code built into Yiimp will not be continuously developed. Do you plan to reinstall Yiimp after improving the stratum code? Please use the independently developed stratum code.
-
+kk
 - https://github.com/msy2008/stratum-full
 
 ## This Yiimp code is already able to support automatic payment with AUXPOW coins!, you need to create a table file in the database
